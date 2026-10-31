@@ -25,7 +25,7 @@ $$
 
 ### Problems
 1. Ally Chen problem
-2. batch fed bio reactor
+2. Lee Ramirez batch fed bio reactor
 3. Bressnan problem
 4. Jennings problem
 5. Catalyst mixing problem
