@@ -24,11 +24,11 @@ $$
 2. $\alpha_2 =1$, it becomes a uniform grid
 
 ### Problems
-1. ally
+1. Ally Chen problem
 2. batch fed bio reactor
 3. Bressnan problem
 4. Jennings problem
-5. Catalyst problem
+5. Catalyst mixing problem
 6. chemical reactor
 
 ### References
