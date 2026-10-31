@@ -1,5 +1,6 @@
 ## Dynamic mesh refinement
-A mesh refinement algorithm where time is a free variable in multiple shooting with piecewise constant control.
+The standard procedure to apply multiple shooting for optimal control problem applies. In addition, the discrete time must be defined as decision variables along with boundary conditions
+and width constraints.
 
 ### Constraints on time
 $$
